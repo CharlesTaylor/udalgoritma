@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>Ud test</label>
+	</settings>
+	<users>
+		<user>
+			<path>Ud test.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>Ud test.jcp</path>
+		</project>
+	</projects>
+</workspace>
